@@ -1,5 +1,5 @@
 path_classifiers:
-  test:
+  test.st:1.1
     # Classify all files in the top-level directories test/ and testsuites/ as test code.
     - test
     # Classify all files with suffix `.test` as test code.
